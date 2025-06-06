@@ -842,7 +842,7 @@ export default function ChartGenerator() {
                     />
                   </div>
                   <div>
-                    <label className="block text-xs font-medium text-gray-600 dark:text-gray-400 mb-1 uppercase tracking-wider">Color</label>
+                    <label className="block text-xs font-medium text-gray-600 dark:text-gray-400 mb-1 uppercase tracking-wider">COLOUR</label>
                     <div className="relative">
                       <input
                         type="color"
@@ -890,7 +890,7 @@ export default function ChartGenerator() {
                     />
                   </div>
                   <div>
-                    <label className="block text-xs font-medium text-gray-600 dark:text-gray-400 mb-1 uppercase tracking-wider">Color</label>
+                    <label className="block text-xs font-medium text-gray-600 dark:text-gray-400 mb-1 uppercase tracking-wider">COLOUR</label>
                     <div className="relative">
                       <input
                         type="color"
